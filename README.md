@@ -1,0 +1,2 @@
+# OBSIDIAN
+개인용 OBSIDIAN Repo.
